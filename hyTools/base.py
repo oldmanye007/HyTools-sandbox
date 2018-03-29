@@ -1,6 +1,9 @@
 #from .iterators import *
 import numpy as np,os,h5py
 
+# dummy line add for github test
+ssss =1
+
 # ENVI datatype conversion dictionary
 dtypeDict = {1:np.uint8,
              2:np.int16,
